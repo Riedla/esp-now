@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fd529bac-8fe7-41b0-8d67-9f48357453cb)🚀 Tecnologia em ação com ESP-NOW!
+🚀 Tecnologia em ação com ESP-NOW!
 
 Estou desenvolvendo um projeto incrível usando o protocolo ESP-NOW para comunicação sem fio. 🛠️ Aqui está como funciona:
 
